@@ -1,0 +1,125 @@
+/* CSS Document */
+.con .aCon .mpage .ascon{
+	width:1080px;
+	height:600px;
+	float:left;
+	margin-top:20px;
+}
+.con .aCon .mpage .ascon .devCon{
+	width:1080px;
+	height:500px;
+	float:left;
+	margin-top:20px;
+}
+.con .aCon .mpage .ascon .devCon h1{
+	width:1080px;
+	height:30px;
+	float:left;
+	font-family: Helvetica, Arial, sans-serif;
+	color:#e93e3e;
+	font-size:45px;
+	font-weight:100;
+	line-height:30px;
+	margin-bottom:40px;
+	text-align:center;
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon{
+	width:1023px;
+	height:470px;
+	margin-right:auto;
+	margin-left:auto;
+	display:table;	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon{
+	width:321px;
+	height:479px;
+	float:left;
+	margin-right:30px;
+	
+	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon #dev1{
+	background-image:url(../../devs/devs1.jpg);
+	overflow:hidden;
+	background-repeat:no-repeat;
+	border-top-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon #dev2{
+	background-image:url(../../devs/devs2.jpg);
+	overflow:hidden;
+	border-top-left-radius:20px;
+	border-bottom-right-radius:20px;
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon #dev3{
+	background-image:url(../../devs/devs3.jpg);
+	overflow:hidden;
+	border-top-left-radius:20px;
+	border-bottom-right-radius:20px;
+	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon .pic{
+	width:315px;
+	height:320px;
+	float:left;
+	margin-right:30px;
+	border-top-left-radius:20px;
+	/*border-top-right-radius:15px;*/
+	border-top-style:solid;
+	border-top-width:3px;
+	border-top-color:#6cc765;
+	border-left-width:3px;
+	border-left-color:#6cc765;
+	border-left-style:solid;
+	border-right-width:3px;
+	border-right-color:#6cc765;
+	border-right-style:solid;
+	overflow:hidden;
+	
+	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon .rule{
+	width:321px;
+	height:3px;
+	float:left;
+	background-color:#FFFFFF;
+	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon .picLabel{
+	width:315px;
+	height:150px;
+	float:left;
+	/*border-bottom-left-radius:15px;*/
+	border-bottom-right-radius:20px;
+	border-bottom-style:solid;
+	border-bottom-width:3px;
+	border-bottom-color:#6cc765;
+	border-left-width:3px;
+	border-left-color:#6cc765;
+	border-left-style:solid;
+	border-right-width:3px;
+	border-right-color:#6cc765;
+	border-right-style:solid;
+	background-image:url(../../img/dev_label.png);
+	
+	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon .picLabel table{
+	margin-top:10px;
+	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon .picLabel table tr td:first-of-type{
+	text-align:right;
+	width:85px;
+	color:#E71F22;
+	font-weight:bold;
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon .picLabel table tr td a{
+	text-decoration:none;
+	
+}
+.con .aCon .mpage .ascon .devCon .mainDevcon .picCon:last-of-type{
+	margin-right:0px;
+	
+	
+}

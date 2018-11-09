@@ -1,0 +1,243 @@
+.log{
+	width:100%;
+	height:31px;
+	position:absolute;
+	top:86px;
+	visibility:hidden;
+	
+}
+.log .log_con{
+	width:1152px;
+	height:31px;
+	visibility:hidden;
+	margin:0 auto;
+	
+}
+.log .log_con .main_log_log{
+	width:100px;
+	height:31px;
+	float:right;
+	visibility:visible;
+	margin-right:120px;
+	
+}
+.log .log_con .main_log_log .logg{
+	width: 30px;
+	height: 30px;
+	visibility: visible;
+	background-image: url(../../img/settings.png);
+	background-repeat: no-repeat;
+	background-position: top;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-top-color:#8edd88;
+	border-right-color:#8edd88;
+	border-bottom-color:#8edd88;
+	border-left-color:#8edd88;
+	border-top-left-radius:10px 10px;
+	border-top-right-radius:10px 10px;
+}
+.log .log_con .main_log_log .logg:hover{
+	background-position: bottom;
+	cursor:pointer;
+}
+.rlog{
+	width:100%;
+	height:auto;
+	position:absolute;
+	top:116px;
+	visibility:hidden;
+	background-color:#F09;
+	display:none;
+	
+}
+.rlog .rlog_con{
+	width:1152px;
+	height:auto;
+	visibility:hidden;
+	margin:0 auto;
+	
+}
+.rlog .rlog_con .rmain_log_log{
+	width: 180px;
+	height: auto;
+	float: right;
+	visibility: visible;
+	margin-right: 40px;
+
+}
+.rlog .rlog_con .rmain_log_log .t_curve{
+	width: 182px;
+	height: 15px;
+	float: left;
+	visibility: visible;
+	background-image: url(../../img/t_curve.png);
+}
+.rlog .rlog_con .rmain_log_log .rlogg{
+	width: 180px;
+	height: auto;
+	float: left;
+	visibility: visible;
+	background-color: #FFF;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-right-color: #8edd88;
+	border-bottom-color: #8edd88;
+	border-left-color: #8edd88;
+}
+.rlog .rlog_con .rmain_log_log .rlogg a{
+	width:165px;
+	height:31px;
+	text-decoration:none;
+	color:#FFF;
+	background-color: #8edd88;
+	float:left;
+	margin-bottom:4px;
+	line-height:31px;
+	text-align:center;
+	border-top-right-radius:10px 10px;
+	border-bottom-right-radius:10px 10px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;	
+}
+.rlog .rlog_con .rmain_log_log .rlogg a:last-of-type{
+	margin-bottom:10px;
+}
+.rlog .rlog_con .rmain_log_log .rlogg a:hover{
+	background-color:#38A730;
+}
+
+.header {
+	height:116px;
+	width:100%;
+	background-color:#e93e3e;
+	background-image:url(../../img/header_bg.png);
+	
+}
+.header .main_header {
+	height:116px;
+	width:1152px;
+	background-color: #e93e3e;
+	margin: 0px auto;
+	
+}
+.header .main_header .h_l_c{
+	height:116px;
+	width:41px;
+	background-color: #e93e3e;
+	float:left;
+	background-image:url(../../img/hd_l_c.png);
+	
+}
+.header .main_header .h_con{
+	height:116px;
+	width:1070px;
+	background-color: #e93e3e;
+	float:left;
+	
+}
+.header .main_header .h_con .logo{
+	height:116px;
+	width:88px;
+	background-color: #e93e3e;
+	float:left;
+	
+}
+.header .main_header .h_con .ttl{
+	height:83px;
+	width:981px;
+	background-color: #e93e3e;
+	float:left;
+	
+}
+.header .main_header .h_con .menu{
+	height:33px;
+	width:981px;
+	background-color: #e93e3e;
+	float:left;
+	
+}
+.header .main_header .h_con .menu ul{
+	list-style-type: none;
+
+	
+}
+.header .main_header .h_con .menu ul li{
+	display: inline;
+	float: left;
+	
+
+	
+}
+.header .main_header .h_con .menu ul li font{
+	font-family: "Times New Roman", Times, serif;
+	color: #FFF;
+	font-size: 20px;
+	line-height: 4px;	
+	float:left;
+	margin-left:15px;
+	margin-right:15px;
+	
+}
+.header .main_header .h_con .menu ul li a{
+	float: left;
+	font-family: "Times New Roman", Times, serif;
+	text-decoration: none;
+	color: #FFF;
+	font-size: 20px;
+	line-height: 4px;
+	margin-left: 24px;
+}
+.header .main_header .h_con .menu ul li a:first-of-type{
+	margin-left: 0px;
+	
+}
+.header .main_header .h_con .menu ul li a:hover{
+	color: #8edd88;
+}
+.header .main_header .h_con .menu ul li #active{
+	color: #8edd88;
+}
+.header .main_header .h_con .ttl .main_t{
+	height:67px;
+	width:501px;
+	background-color: #e93e3e;
+	float:left;
+	background-image: url(../../img/title.png);
+	margin-left:60px;
+	margin-top:15px;
+	
+}
+.header .main_header .h_con .logo{
+	height:116px;
+	width:89px;
+	background-color: #e93e3e;
+	float:left;
+	
+}
+.header .main_header .h_con .main_l{
+	height:88px;
+	width:89px;
+	background-color: #e93e3e;
+	margin-top:5px;
+	float:left;
+	background-image:url(../../img/logo.jpg);
+	background-repeat:no-repeat;
+	
+}
+.header .main_header .h_r_c{
+	height:116px;
+	width:41px;
+	background-color: #e93e3e;
+	float:left;
+	background-image: url(../../img/hd_r_c.png);
+	
+}

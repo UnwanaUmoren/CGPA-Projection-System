@@ -1,0 +1,231 @@
+/* CSS Document */
+.con .m_con_right .hint2{
+	width: 840px;
+	height: 20px;
+	float: left;
+	margin-top:10px;
+	padding-top:0px;
+}
+.con .m_con_right .hint2 .hint_con {
+	width:auto;
+	height:20px;
+	margin:0 auto;
+	display:table;
+	
+}
+.con .m_con_right hr{
+	width: 820px;
+	height: 2px;
+	border: none;
+	float:left;
+	margin-left:10px;
+	background-color: #666;
+	margin-top: 70px;
+}
+.con .m_con_right .hint2 .hint_con .mid{
+	width: 200px;
+	height: 20px;
+	color:#666;
+	float: left;
+	line-height:20px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align:center;
+}
+.con .m_con_right .hint2 .hint_con .left{
+	width: 240px;
+	height: 20px;
+	color: #666;
+	float: left;
+	line-height: 20px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	border-right: thin solid #333333;
+}
+.con .m_con_right .hint2 .hint_con .right{
+	width: 290px;
+	height: 20px;
+	color:#666;
+	float: left;
+	line-height:20px;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	padding-left:40px;
+	border-left: thin solid #333333;
+}
+.con .m_con_right .info{
+	width: 840px;
+	height: auto;
+	float: left;
+	margin-top:13px;
+}
+.con .m_con_right .info p{
+	width: 792px;
+	height: 65px;
+	margin:0 auto;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color:#333;
+	font-size:18px;
+	text-align:justify;
+	line-height:25px;
+}
+.con .m_con_right .c_table_con{
+	width: 840px;
+	height: auto;
+	float: left;
+	margin-bottom:10px;
+}
+.con .m_con_right .c_table_con table{
+	width:800px;
+	margin:0 auto;
+	display:table;
+	border-collapse:collapse;
+	
+	
+}
+.con .m_con_right .c_table_con table caption{
+	background-color:#333;
+	color:#8edd88;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	height:30px;
+	line-height:30px;	
+}
+.con .m_con_right .c_table_con table tr td, .con .m_con_right .f_courses .bt table tr td, .con .m_con_right .f_courses2 .bt table tr td{
+	padding-left:5px;	
+}
+.con .m_con_right .c_table_con table tr:nth-child(even){
+	background-color:#CCC;	
+}
+.con .m_con_right .courses_info{
+	width:800px;
+	height:100px;
+	margin:0 auto;
+	display:table;	
+}
+.con .m_con_right #courses_info{
+	width:800px;
+	height:auto;
+	margin:0 auto;
+	display:table;	
+}
+.con .m_con_right .courses_info .top{
+	width:800px;
+	height:auto;
+	float:left;	
+}
+.con .m_con_right .courses_info .top .left{
+	width:400px;
+	height:70px;
+	float:left;	
+}
+.con .m_con_right .courses_info .top .left table tr td:first-of-type{
+	text-align:right;
+}
+.con .m_con_right #courses_info .top .left table tr td:first-of-type{
+	text-align:right;
+}
+.con .m_con_right .courses_info .top .right{
+	width:400px;
+	height:70px;
+	float:left;	
+}
+.con .m_con_right .courses_info .top .right .bt_con{
+	width:200px;
+	height:50px;
+	float: right;
+	margin-right:10px;
+	margin-top:20px;
+}
+.con .m_con_right .courses_info .top .right .bt_con input[type="button"]{
+	width: 200px;
+	height: 50px;
+	background-color: #8edd88;
+	border-radius: 5px;
+	border:none;
+	box-shadow: 0 1px 2px 3px rgba(50, 50, 50, 0.4);
+	font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+	color:#FFF;
+	
+}
+.con .m_con_right .courses_info .top .right .bt_con input[type="button"]:hover{
+	background-color: #38a730;
+	cursor:pointer;
+}
+.con .m_con_right .f_courses, .con .m_con_right .f_courses2{
+	width:840px;
+	height:auto;
+	margin-top:20px;	
+	float:left;
+}
+.con .m_con_right .f_courses .m_top, .con .m_con_right .f_courses2 .m_top{
+	width:840px;
+	height:50px;
+}
+.con .m_con_right .f_courses .bt, .con .m_con_right .f_courses2 .bt{
+	width:840px;
+	height:auto;
+	float:left;
+}
+.con .m_con_right .f_courses .bt table, .con .m_con_right .f_courses2 .bt table{
+	width:800px;
+	margin:0 auto;
+	display:table;
+	border-collapse:collapse;
+	
+	
+}
+.con .m_con_right .f_courses .bt table caption, .con .m_con_right .f_courses2 .bt table caption{
+	background-color:#333;
+	color:#FF0D13 ;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	height:30px;
+	line-height:30px;	
+}
+.con .m_con_right .f_courses .bt table #cp, .con .m_con_right .f_courses2 .bt table #cp{
+	background-color:#333;
+	color:#FF0 ;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	height:30px;
+	line-height:30px;	
+}
+
+.con .m_con_right .f_courses .bt table tr:nth-child(2n), .con .m_con_right .f_courses2 .bt table tr:nth-child(2n) {
+    background-color: #ccc;
+}
+.con .m_con_right .f_courses .m_top p, .con .m_con_right .f_courses2 .m_top p{
+	width:800px;
+	height:50px;
+	width: 792px;
+	height: 40px;
+	margin:0 auto;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color: #FF0D13;
+	font-size:18px;
+	text-align:justify;
+	
+	
+}
+.con .m_con_right .err_con{
+	width:840px;
+	height:auto;
+	float:left;	
+	display:none;
+}
+.con .m_con_right .err_con .m_con{
+	width:800px;
+	height:40px;
+	margin:0 auto;
+	display:table;	
+	background-color: #FFDFE0;
+
+}
+.con .m_con_right .err_con .m_con p{
+	width:800px;
+	height:40px;
+	line-height:40px;
+	color:#FF2429;
+	margin:0;
+	padding-top:0px;
+	padding-left:3px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	text-align:center;
+
+}

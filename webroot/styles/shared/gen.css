@@ -1,0 +1,16 @@
+/* CSS Document */
+body{
+	margin:0px;
+	
+	
+}
+.con {
+	/*min-height:500px;*/
+	height:auto;
+	width:1152px;
+	background-color: #FFF;
+	margin: 3px auto 15px auto;
+	display:table;
+	
+	
+}

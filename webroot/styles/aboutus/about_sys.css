@@ -1,0 +1,72 @@
+.con .aCon .mpage .ascon{
+	width:1080px;
+	height:auto;
+	float:left;
+	margin-top:20px;
+}
+.con .aCon .mpage .ascon .left{
+	width:500px;
+	height:auto;
+	float:left;
+	margin-left:10px;
+}
+.con .aCon .mpage .ascon .left h1:first-of-type{
+	margin-top:40px;
+	
+}
+.con .aCon .mpage .ascon .left h1{
+	width:490px;
+	height:30px;
+	float:left;
+	font-family: Helvetica, Arial, sans-serif;
+	color:#e93e3e;
+	padding-left:10px;
+	font-size:36px;
+	font-weight:100;
+	line-height:30px;
+	margin-top:40px;
+	margin-bottom:0px;
+}
+.con .aCon .mpage .ascon .left h2{
+	width:482px;
+	height:30px;
+	float:left;
+	font-family: Helvetica, Arial, sans-serif;
+	color:#EC5255;;
+	padding-left:18px;
+	font-size:28px;
+	font-weight:100;
+	line-height:30px;
+	margin-top:10px;
+	margin-bottom:0px;
+}
+.con .aCon .mpage .ascon .left p{
+	width:490px;
+	height:auto;
+	float:left;
+	color:#555252;
+	padding-left:10px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:18px;
+	text-align:justify;
+	margin-bottom:0px;
+
+}
+.con .aCon .mpage .ascon .left #p2{
+	width:480px;
+	height:auto;
+	float:left;
+	color:#555252;
+	padding-left:18px;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:18px;
+	text-align:justify;
+	margin:0px;
+
+}
+.con .aCon .mpage .ascon .right{
+	width:560px;
+	height:680px;
+	float:left;
+	background-image:url(../../img/about_sys_bg.png);
+}

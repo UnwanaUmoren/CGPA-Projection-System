@@ -1,0 +1,222 @@
+/* CSS Document */
+.con .m_con_left {
+	background-color: #FFF;
+	width: 250px;
+	height: auto;
+	float: left;
+	margin-left: 30px;
+	background-image: url(../../img/l_bg.png);
+	background-repeat: repeat-x;
+	border-top-left-radius: 10px;
+	margin-top: 20px;
+	border-bottom-left-radius: 10px;
+}
+.con .m_con_left .tp {
+	width: 250px;
+	height:80px;
+	float:left;
+	border-top-left-radius: 10px;	
+}
+.con .m_con_left .user{
+	width: 250px;
+	height:200px;
+	float:left;
+	
+}
+.con .m_con_left .user .u_con{
+	width: 220px;
+	height: auto;
+	margin: 0 auto;
+	display: table;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	background-image: url(../../img/user_con_bg.png);
+	background-repeat: repeat-x;
+	border-bottom-width: 1px;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-bottom-style: solid;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-bottom-color: #FFFFFF;
+	border-right-color: #FFFFFF;
+	border-left-color: #FFFFFF;
+}
+.con .m_con_left .user .u_con .user_info .info_con{
+	width: 91px;
+	height:126px;
+	float:left;
+	margin-top:0;
+	margin-left:5px;
+	
+}
+.con .m_con_left .user .u_con .user_info .info_con .r_w{
+	width: 91px;
+	height: 18px;
+	float: left;
+	display: table;
+	border-top: 1px solid  #FFF;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size:10px;
+	color:#e93e3e;
+	font-weight:700;
+	text-align:left;
+	padding-left:3px;
+	line-height:18px;
+	
+}
+.con .m_con_left .user .u_con .passport{
+	width: 96px;
+	height:126px;
+	float:left;
+	margin-top:15px;
+	margin-bottom:15px;
+	margin-left:15px;
+}
+.con .m_con_left .user .u_con .user_info{
+	width: 109px;
+	height:126px;
+	float:left;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.con .m_con_left .bt {
+	width: 250px;
+	height:auto;
+	float:left;
+	
+}
+.con .m_con_left *.l_h{
+	background-color:#333;
+	width: 250px;
+	height:30px;
+	float:left;
+	border-top-left-radius: 10px;
+	background-image:url(../../img/header_bg2.png);
+	background-repeat:repeat-x;
+	
+}
+
+.con .m_con_right .courses_info .top {
+    float: left;
+    height: auto;
+    width: 800px;
+}
+
+.con .m_con_right .courses_info .top .left {
+    float: left;
+    height: auto;
+    width: auto;
+}
+.con .m_con_right .courses_info .top .left table tr .lb {
+    text-align:right;
+}
+.con .m_con_right .courses_info .top .left table tr {
+    color:#FFF;
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size:14px;
+}
+.con .m_con_right .courses_info .top .left table tr td:last-of-type{
+	padding-left: 5px;
+	border-bottom: thin solid #FFF;
+}
+.con .m_con_right .courses_info .top .left table tr:last-of-type td:last-of-type{
+	padding-left: 5px;
+	border-top: none;
+	border-bottom: none;
+}
+.con .m_con_left .bt .l_h , .con .m_con_left .tp .l_h{
+
+	border-top-left-radius: 0px; !important
+
+}
+.con .m_con_left .tp p{
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	color: #e93e3e;
+	font-size: 18px;
+	width: 220px;
+	height: 35px;
+	text-align: center;	
+	margin-top:0px;
+	line-height:35px;
+	margin:0 auto;
+	display:table;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+	background-image:url(../../img/active_tool_bg.png);
+	background-repeat:repeat-x;
+	
+}
+.con .m_con_left .l_con{
+	width: 250px;
+	height:200px;
+	float:left;
+	margin-top:20px;
+	
+}
+.con .m_con_left .l_con a{
+	width: 200px;
+	height: 35px;
+	float: right;
+	text-align: right;
+	padding-right: 5px;
+	text-decoration: none;
+	margin-top: 4px;
+	background-color: #333;
+	color: #FFF;
+	line-height: 35px;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius: 10px;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size:16px;	
+}
+.con .m_con_left .l_con a:hover{
+	color:#8edd88;
+	
+}
+.con .m_con_left .l_con #act_tool{
+	color:#e93e3e;
+	background-color:#FFF;
+	font-size:17px;
+	
+}
+.con .m_con_left *.l_h h2{
+	color: #FFF;
+	font-size: 16px;
+	line-height: 18px;
+	margin-top: 0px;
+	padding-left: 5px;
+	padding-top: 3px;
+	font-weight: 200;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+.con .m_con_right {
+	background-color: #FFF;
+	width: 840px;
+	height: auto;
+	float: left;
+	border-top-right-radius: 10px;
+	border-top: 1px solid #8edd88;
+	margin-top: 21px;
+	background-image: url(../../img/r_bg.png);
+	background-position: right top;
+	background-repeat: no-repeat;
+}
+.con .m_con_right .r_h{
+	background-color:#8edd88;
+	width: 840px;
+	height: 30px;
+	float: left;
+	border-top-right-radius: 10px;
+	margin-top:-2px;
+}
+.con .m_con_right .r_h h2{
+	width: 840px;
+	height: 30px;
+	float: left;
+	margin:0;
+	font-size:16px;
+	font-family:"Arial Black", sans-serif;
+	line-height:30px;
+}
+

@@ -1,0 +1,228 @@
+/* CSS Document */
+
+.con .m_con_right .add_sec1{
+	width: 840px;
+	height: 50px;
+	float: left;
+	margin-bottom:20px;
+}
+.con .m_con_right .add_sec{
+	width: 840px;
+	height: auto;
+	float: left;
+	margin-bottom:13px;
+}
+.con .m_con_right .add_sec .hdr, .con .m_con_right .add_sec1 .hdr{
+	width: 840px;
+	height: auto;
+	float: left;	
+}
+.con .m_con_right .add_sec .hdr .con, .con .m_con_right .add_sec1 .hdr .con{
+	width: 800px;
+	height: 50px;
+	margin: 0 auto;
+	border-bottom: 1px dotted #666666;
+}
+.con .m_con_right .add_sec .hdr .con p, .con .m_con_right .add_sec1 .hdr .con p{
+	width: 800px;
+	height:50px;
+	line-height:50px;
+	margin:0;
+	font-family:"Century Schoolbook L", "Times New Roman", serif;
+	font-size:36px;
+	color:#666;
+}
+.con .m_con_right .add_sec .add_con{
+	width: 840px;
+	height: auto;
+	float: left;
+}
+.con .m_con_right .add_sec .add_con .main_con{
+	width: 800px;
+	height: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 8px;
+	display:table;
+}
+.con .m_con_right .add_sec .add_con .main_con p{
+	width: 800px;
+	height: 22px;
+	margin:0;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size:20px;
+	color:#333;
+	line-height:22px;
+}
+.con .m_con_right .add_sec .add_con .main_con .pull_con{
+	width: 800px;
+	height: auto;
+	float: left;
+	margin-top: 8px;	
+}
+.con .m_con_right .add_sec .add_con .main_con .pull_con table{
+	width: 800px;
+	float: left;	
+}
+.con .m_con_right .add_sec .add_con .main_con .pull_con table tr td:first-of-type{
+	width: 100px;
+	float: left;
+	height:30px;
+	text-align:right;
+	color: #187438;
+    font-family: "Segoe UI","Segoe UI Web","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,sans-serif;
+    font-size: 18px;
+    font-weight: 200;
+	line-height:30px;
+}
+.con .m_con_right .add_sec .add_con .main_con .pull_con table tr td select{
+	width: 380px;
+	float: left;
+	height: 30px;
+	font: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+	font-size: 14px;
+	border: 1px solid #8edd88;
+}
+.con .m_con_right .courses_info .top .right .bt_con input[type="button"]{
+	width: 200px;
+	height: 50px;
+	background-color: #8edd88;
+	border-radius: 5px;
+	border:none;
+	box-shadow: 0 1px 2px 3px rgba(50, 50, 50, 0.4);
+	font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+	color:#FFF;
+	
+}
+.con .m_con_right .courses_info .top .right .bt_con input[type="button"]:hover{
+	background-color: #38a730;
+	cursor:pointer;
+}
+.con .m_con_right .error_sec{
+	width: 840px;
+	height: auto;
+	float: left;
+	margin-bottom:20px;
+	display:none;
+}
+.con .m_con_right .error_sec .error_con{
+	width: 800px;
+	height: 30px;
+	margin: 0 auto;
+	background-color:#FFC1C2;
+	display:table;
+}
+.con .m_con_right .error_sec .error_con p{
+	width: 800px;
+	height: 30px;
+	color:#F00;
+	font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-size:14px;
+	text-align:center;
+	line-height:30px;
+	margin:0;
+}
+.con .m_con_right .courses_con{
+	width: 840px;
+	height: auto;
+	float: left;
+	margin-bottom:5px;
+	display:none;
+}
+.con .m_con_right .courses_con #bt{
+	width:800px;
+	margin:7px auto;
+	display:table;
+	border-collapse:collapse;
+	
+}
+.con .m_con_right .courses_con #bt tr td input[type='button']{
+	height:30px;
+	width:180px;
+	line-height:26px;
+	border:none;
+	font-family: "Times New Roman",Times,serif;
+    font-size: 16px;
+	color:#FFF;
+	float:right;
+	box-shadow: 0 1px 2px 3px rgba(50, 50, 50, 0.1);
+	border-radius: 5px;
+	background-color:#8edd88;
+	margin-right:1px;
+	
+}
+.con .m_con_right .courses_con #bt tr td input[type='button']:hover{
+	cursor:pointer;
+	background-color: #38a730;
+	
+}
+.con .m_con_right .add_sec .add_con .main_con .pull_con table tr td input[type='button']{
+	height:30px;
+	width:180px;
+	line-height:26px;
+	border:none;
+	font-family: "Times New Roman",Times,serif;
+    font-size: 16px;
+	color:#FFF;
+	float:right;
+	box-shadow: 0 1px 2px 3px rgba(50, 50, 50, 0.1);
+	border-radius: 5px;
+	background-color:#8edd88;
+	
+	
+}
+.con .m_con_right .add_sec .add_con .main_con .pull_con table tr td input[type='button']:hover{
+	cursor:pointer;
+	background-color: #38a730;
+	
+}
+.con .m_con_right .add_sec .add_con .main_con .pull_con table tr td p{
+	height: 28px;
+	width: 300px;
+	line-height: 28px;
+	color: #F00;
+	font-size:14px;
+	font-family:"Arial Black", sans-serif;
+}
+
+.con .m_con_right .courses_con table{
+	width:800px;
+	margin:0 auto;
+	display:table;
+	border-collapse:collapse;
+	
+	
+}
+
+.con .m_con_right .courses_con table caption{
+	background-color:#333;
+	color:#8edd88;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	height:30px;
+	line-height:30px;	
+	
+}
+.con .m_con_right .courses_con table tr td{
+	padding-left:5px;
+}
+
+.con .main_con .main_fm_con .main_fm form table tr td:first-of-type {
+    color: #187438;
+    font-family: "Segoe UI","Segoe UI Web","Segoe UI Symbol","Helvetica Neue","BBAlpha Sans","S60 Sans",Arial,sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    line-height: 20px;
+    text-align: right;
+}
+.con .m_con_right .c_table_con #up{
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:-2px;
+	display:table;
+	border-collapse:collapse;
+	
+	
+}

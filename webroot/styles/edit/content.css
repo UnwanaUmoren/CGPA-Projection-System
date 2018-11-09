@@ -1,0 +1,252 @@
+/* CSS Document */
+.con .dump_ajax_loader{
+	width: 1152px;
+	height: 50px;
+	position: absolute;
+	z-index: 4;
+	padding: 0px;
+	margin: 0px;
+	top: 700px;
+	visibility:hidden;
+}
+.con .dump_ajax_loader .loader{
+	width: 50px;
+	height: 50px;
+	margin-left: 250px;
+	visibility: visible;
+	background-image: url(../../img/Ajax-loader.gif);
+	background-repeat: no-repeat;
+	display: none;
+}
+.con .passport{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	right: 0px;	
+	margin-top:250px;
+	visibility:hidden;
+	
+}
+
+.con .passport .pass_con{
+	width: 1152px;
+	height: 126px;
+	visibility:hidden;
+	margin:0 auto;
+	
+	
+}
+.con .passport .pass_con .main_pass{
+	width: 96px;
+	height: 126px;
+	visibility: visible;
+	float: right;
+	margin-right: 70px;
+	background-image: url(../../img/passport_preview.png);
+	background-repeat:no-repeat;
+}
+.con .passport .resetBtCon{
+	width: 1152px;
+	height: 26px;
+	visibility:hidden;
+	margin-top:8px;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+.con .passport .resetBtCon .mainBt{
+	width: 96px;
+	height: 26px;
+	visibility: visible;
+	float: right;
+	margin-right: 70px;
+	
+}
+.con .passport .resetBtCon .mainBt input[type = 'button']{
+	height:26px;
+	border:none;
+	width:96px;
+	background-color: #8edd88;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px 2px rgba(50, 50, 50, 0.4);
+    color: #fff;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 14px;	
+}
+.con .passport .resetBtCon .mainBt input[type = 'button']:hover{
+	background-color:#38a730;
+	cursor:pointer;
+	
+}
+.con .main_con{
+	width: 1077px;
+	height: auto;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 50px;
+	margin-left: auto;
+	background-image: url(../../img/edit_p_bg.png);
+	display: table;
+	background-repeat: no-repeat;
+}
+.con .main_con .ttl{
+	width: 100%;
+	height: 50px;
+	float: left;
+	margin-bottom:0px;
+
+
+}
+.con .main_con .fm_con{
+	width: 100%;
+	height: auto;
+	float:left;
+}
+.con .main_con .main_fm_con{
+	width: auto;
+	height: auto;
+	background-color: #999;
+	margin-top: 40px;
+	margin-left: 120px;
+}
+.con .main_con .main_fm_con .hnt{
+	width: 100%;
+	height: 30px;
+	float:left;
+		
+}
+
+.con .main_con .main_fm_con .hnt p{
+	height: 30px;
+	margin: 0px;
+	padding: 0px;
+	width: auto;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	line-height: 30px;
+	color: #666;
+}
+.con .main_con .main_fm_con .main_fm{
+	width: 810px;
+	height: auto;
+	margin-top:15px;
+	float:left;
+}
+.con .main_con .main_fm_con .main_fm form table{
+	width: 810px;
+	height: 500px;
+}
+.con .main_con .main_fm_con .main_fm form table tr{
+	height: 30px;
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td input[type='text'], .con .main_con .main_fm_con .main_fm form table tr td input[type='password']{
+	height: 30px;
+	width: 300px;
+	border: 1px solid #8edd88;	
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td select[id='fac'],.con .main_con .main_fm_con .main_fm form table tr td select[id='dep']{
+	height: 30px;
+	width: 304px;
+	border: 1px solid #8edd88;	
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td input[type='file']{
+	height: 30px;
+	width: 300px;
+	border: 1px solid #8edd88;
+
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td input[type='button']{
+	height:60px;
+	width:307px;
+	background-color: #8edd88;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #FFF;
+	border-top-left-radius:5px 5px;
+	border-top-right-radius:5px 5px;
+	border-bottom-right-radius:5px 5px;
+	border-bottom-left-radius:5px 5px;
+	box-shadow:0px 1px 2px 3px rgba(50, 50 ,50 , 0.4);
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td input[type='button']:hover{
+	background-color: #38A730;	
+}
+.con .main_con .main_fm_con .main_fm form table tr td select{
+	height: 30px;
+	width:96px;
+	margin-right:9px;
+	float:left;
+	border: 1px solid #8edd88;	
+
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td select:last-of-type{
+
+	margin-right:0px;
+	float:left;
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr .s{
+	/*height: 30px;
+	width:80px;*/
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td:first-of-type{
+	width: 150px;
+	font-family: "Segoe UI", "Segoe UI Web", "Segoe UI Symbol", "Helvetica Neue", "BBAlpha Sans", "S60 Sans", Arial, sans-serif;
+	line-height: 20px;
+	color: #187438;
+	text-align: right;
+	font-weight: normal;
+	font-size: 16px;
+	padding-right: 5px;
+	font-weight:200;
+}
+.con .main_con .main_fm_con .main_fm form table tr #e1{
+	width: 337px;
+	
+}
+.con .main_con .main_fm_con .main_fm form table tr td:last-of-type p{
+	font-family: "Times New Roman", Times, serif;
+	line-height: 20px;
+	color: #F00;
+	text-align: left;
+	font-weight: normal;
+	font-size: 16px;
+	font-weight: 200;
+	background-image: url(../../img/error2.png);
+	background-repeat: no-repeat;
+	margin: 0px;
+	padding-top: 0px;
+	padding-left: 20px;
+	padding-bottom: 0px;
+	
+}
+
+.con .main_con .main_fm_con .main_fm form table .sp{
+	height: 10px;
+}
+.con .main_con .ttl .main_ttl{
+	width: 350px;
+	height: 50px;
+	float: right;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	line-height: 60px;
+	color: #FFF;
+	text-align: center;
+	font-weight: bold;
+
+
+}

@@ -1,0 +1,31 @@
+/* CSS Document */
+.con .m_con_right .suc_con .con {
+    display: table;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 600px;
+}
+.con .m_con_right .suc_con .con p:first-of-type {
+	color: #333;
+	font-family: "Times New Roman",Times,serif;
+	font-size: 40px;
+	height: auto;
+	text-align: center;
+	width: 600px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 40px;
+}
+.con .m_con_right .suc_con .con p {
+	color: #096;
+    font-family: "Times New Roman",Times,serif;
+    font-size: 20px;
+    height: auto;
+    text-align: center;
+    width: 600px;
+	
+	
+}

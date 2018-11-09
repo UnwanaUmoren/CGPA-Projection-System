@@ -1,0 +1,19 @@
+Options +FollowSymlinks
+RewriteEngine on
+
+RewriteRule ^home$ __home.php [NC,L]
+RewriteRule ^login$ __log.php [NC,L]
+RewriteRule ^signup$ __signup.php [NC,L]
+RewriteRule ^aboutus$ __aboutus.php [NC,L]
+RewriteRule ^aboutus/([A-Za-z]+)$ __aboutus.php?pid=$1 [NC,L]
+RewriteRule ^home/cmanagement$ __cmgnt.php [NC,L]
+RewriteRule ^home/cmanagement/([A-Za-z0-9.]+)$ __cmgnt.php?pid=$1 [NC,L]
+RewriteRule ^home/rmanagement$ __rmgnt.php [NC,L]
+RewriteRule ^home/rmanagement/([A-Za-z0-9.]+)$ __rmgnt.php?pid=$1 [NC,L]
+RewriteRule ^home/cgpaprojection$ __cgpa_p.php [NC,L]
+RewriteRule ^home/cgpaprojection/([A-Za-z0-9.]+)$ __cgpa_p.php?pid=$1 [NC,L]
+RewriteRule ^home/editprofile$ __edit_p.php [NC,L]
+RewriteRule ^logout/([1-3])$ __logout.php?p=$1 [NC,L]
+RewriteRule ^print$ __print.php [NC,L]
+
+

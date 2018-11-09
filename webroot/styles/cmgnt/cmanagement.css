@@ -1,0 +1,102 @@
+/* CSS Document */
+
+.con .m_con_right .hint{
+
+	width: 840px;
+	height: 30px;
+	float: left;
+	margin-top:20px;	
+}
+
+.con .m_con_right .tools{
+	width: 840px;
+	height: 300px;
+	float: left;
+	margin-top:20px;
+
+}
+.con .m_con_right .tools .tools_con{
+	width: 680px;
+	height: 300px;
+	margin:0 auto;;	
+
+}
+.con .m_con_right .tools .tools_con .clm{
+	width: 150px;
+	height: 300px;
+	float:left;
+	margin-right:20px;
+
+}
+.con .m_con_right .tools .tools_con .clm .up{
+	width: 150px;
+	height: 150px;
+	float:left;
+	background-color: #930;	
+
+}
+.con .m_con_right .tools .tools_con .clm #regcourse{
+	background-image: url(../../img/t1.png);
+	
+}
+.con .m_con_right .tools .tools_con .clm #addcourse{
+	background-image: url(../../img/t2.png);
+	
+}
+.con .m_con_right .tools .tools_con .clm #subcourse{
+	background-image: url(../../img/t3.png);
+	
+}
+.con .m_con_right .tools .tools_con .clm #viewregcourse{
+	background-image: url(../../img/t4.png);
+	
+}
+.con .m_con_right .tools .tools_con .clm #regcourse:hover{
+	background-position: 0% bottom;	
+	
+}
+.con .m_con_right .tools .tools_con .clm #addcourse:hover{
+	background-position: 0% bottom;
+	
+}
+.con .m_con_right .tools .tools_con .clm #subcourse:hover{
+	background-position: 0% bottom;
+	
+}
+.con .m_con_right .tools .tools_con .clm #viewregcourse:hover{
+	background-position: 0% bottom;
+	
+}
+.con .m_con_right .tools .tools_con .clm .down{
+	width: 150px;
+	height: 150px;
+	float:left;
+	background-color: #039;	
+	margin-top:100px;
+
+}
+.con .m_con_right .tools .tools_con .clm .t_id{
+	width: 150px;
+	height: 30px;
+	float:left;
+	text-align:center;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	color:#F03;
+
+}
+.con .m_con_right .tools .tools_con .clm:nth-child(even){
+	
+	
+}
+
+.con .m_con_right .hint p{
+	width: 825px;
+	height: 30px;
+	margin:0;
+	line-height:30px;
+	padding-left:15px;
+	color:#333;
+	font-size:24px;
+	
+	
+}

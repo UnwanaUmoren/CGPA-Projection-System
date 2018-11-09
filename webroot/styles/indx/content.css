@@ -1,0 +1,244 @@
+/* CSS Document */
+.con .rw1{
+	width:100%;
+	height:400px;
+	float: left;
+	
+}
+.con .rw1 .frm{
+	width:300px;
+	height:380px;
+	float: left;
+	background-image:url(../../img/home_log_bg.png);
+	margin-left:20px;
+	margin-top:20px;
+}
+.con .rw1 .frm .main_frm form{
+	width:auto;
+	height:auto;
+
+	
+	
+}
+.con .rw1 .frm .main_frm{
+	width:255px;
+	height:340px;
+	float: left;
+	margin-left:30px;
+	margin-top:40px;
+}
+.con .rw1 .frm .main_frm table .trr{
+	width:75px;
+	height:40px;
+
+
+}
+.con .rw1 .frm .main_frm form table tr #err_con{
+	padding: 0px;
+}
+.con .rw1 .frm .main_frm form table tr #err_con .err_con{
+	width: 246px;
+	height: 20px;
+	background-color: #FECFCF;
+	margin: 0px;
+	font-family: "Segoe UI", "Segoe UI Web", "Segoe UI Symbol", "Helvetica Neue", "BBAlpha Sans", "S60 Sans", Arial, sans-serif;
+	font-size: 12px;
+	line-height: 20px;
+	color: #F00;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 5px;
+	text-align: center;
+	vertical-align: middle;
+}
+.con .rw1 .frm .main_frm form table .trr td input{
+	width: 140px;
+	display: table;
+	height: 40px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	background-image: url(../../img/input_bg.png);
+	background-repeat: no-repeat;
+	margin-top: 0;
+	margin-right: auto;
+	margin-bottom: 0;
+	margin-left: auto;
+	padding-left: 5px;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 16px;
+	color: #e93e3e;
+	padding-top: 0px;
+	background-position: 2px;
+}
+.con .rw1 .frm .main_frm form table tr td #log{
+	width: 139px;
+	float: left;
+	margin-left: 6px;
+	height: 40px;
+	background-color: #8edd88;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #FFF;
+	border-top-left-radius:5px 5px;
+	border-top-right-radius:5px 5px;
+	border-bottom-right-radius:5px 5px;
+	border-bottom-left-radius:5px 5px;
+}
+.con .rw1 .frm .main_frm form table tr td #log:hover{
+	background-color: #38A730;
+	cursor:pointer;
+}
+.con .rw1 .frm .main_frm form table tr td .s_up{
+	width: 139px;
+	float: left;
+	margin-left: 6px;
+	height: 40px;
+	background-color: #e93e3e;
+	border-top-left-radius:5px 5px;
+	border-top-right-radius:5px 5px;
+	border-bottom-right-radius:5px 5px;
+	border-bottom-left-radius:5px 5px;
+	
+}
+.con .rw1 .frm .main_frm form table tr td .s_up:hover{
+	background-color: #B11414;	
+	cursor:pointer;
+}
+.con .rw1 .frm .main_frm form table tr td .s_up a{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	color: #FFF;
+	text-decoration: none;
+	margin-right: auto;
+	margin-left: auto;
+	display:table;
+	line-height:30px;
+}
+
+.con .rw1 .frm .main_frm table{
+	width: 255px;
+	padding: 0px;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}.con .rw1 .frm .main_frm form table tr td label{
+	float: right;
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 18px;
+	color: #e93e3e;	
+}
+.con .rw1 .sld1{
+	width:788px;
+	height:380px;
+	float: left;
+	background-image:url(../../img/home_s1.jpg);
+	margin-left:20px;
+	margin-top:20px;
+}
+.con .rw2{
+	width:100%;
+	height:128px;
+	float: left;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+.con .rw2 .info{
+	width: 1108px;
+	height: 128px;
+	float: left;
+	margin-left: 20px;
+
+}
+.con .rw2 .info .main_info{
+	width:330px;
+	height:128px;
+	float:left;
+	margin-left:30px;
+	
+	
+}
+.con .rw2 .info .main_info .info_id{
+	width:128px;
+	height:128px;
+	float:left;
+	
+	
+}
+.con .rw2 .info .main_info .info_id .m1_id{
+	width: 128px;
+	height: 128px;
+	float: left;
+	background-image: url(../../img/c_mgt.png);	
+}
+.con .rw2 .info .main_info .info_id .m2_id{
+	width: 128px;
+	height: 128px;
+	float: left;
+	background-image: url(../../img/r_mgt.png);	
+}
+.con .rw2 .info .main_info .info_id .m1_id:hover,.con .rw2 .info .main_info .info_id .m2_id:hover,.con .rw2 .info .main_info .info_id .m3_id:hover{
+	background-position: bottom;
+}
+.con .rw2 .info .main_info .info_id .m3_id{
+	width: 128px;
+	height: 128px;
+	float: left;
+	background-image: url(../../img/cgpa_pjn.png);	
+}
+.con .rw2 .info .main_info .info_ttl{
+	width:192px;
+	height:21px;
+	float:left;
+	padding-left:10px;
+	
+	
+}
+.con .rw2 .info .main_info .info_ttl a{
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 21px;
+	color: #e93e3e;
+	text-decoration: none;
+	
+}
+.con .rw2 .info .main_info .info_con{
+	width:202px;
+	height:78px;
+	float:left;
+	
+	
+}
+.con .rw2 .info .main_info .info_con p{
+	width: 192px;
+	height:auto;
+	float: left;
+	font-family: "MS Serif", "New York", serif;
+	font-size: 14px;
+	color: #333;
+	margin-left: 10px;
+	margin-top: 5px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+.con .a_load {
+	width: 1152px;
+	height: 50px;
+	position: absolute;
+	z-index: 4;
+	margin-top: 172px;
+	display:none;
+}
+.con .a_load .loader {
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin-left: 70px;
+	background-image: url(../../img/Ajax-loader.gif);
+}

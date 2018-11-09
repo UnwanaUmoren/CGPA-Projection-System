@@ -1,0 +1,64 @@
+/* CSS Document */
+.con .m_con_right .c_table_con table{
+	width:800px;
+	margin:0 auto;
+	display:table;
+	border-collapse:collapse;
+	clear:both;
+	
+}
+.con .m_con_right .c_table_con table caption{
+	background-color:#333;
+	color:#8edd88;
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	height:30px;
+	line-height:30px;	
+}
+.con .m_con_right .c_table_con table tr td{
+	padding-left:3px;	
+}
+.con .m_con_right .c_table_con table tr:nth-child(even){
+	background-color:#CCC;	
+}
+.con .m_con_right .add_sec .hdr .con, .con .m_con_right .add_sec1 .hdr .con {
+    border-bottom: 1px dotted #666666;
+    height: 50px;
+	width: 800px;
+	margin-bottom: 20px;
+}
+
+.con .m_con_right hr {
+    background-color: #666;
+    border: medium none;
+    height: 3px;
+    margin-top: 15px;
+    width: 810px;
+}
+.con .m_con_right .courses_info {
+	display: table;
+	height: auto;
+	width: 800px;
+	margin-bottom: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6px;
+	background-color: #333;
+	border-bottom-left-radius: 10px;
+	border-bottom-right-radius: 10px;
+}
+
+.con .m_con_right .add_sec .hdr .con p, .con .m_con_right .add_sec1 .hdr .con p {
+    color: #666;
+    font-family: "Century Schoolbook L","Times New Roman",serif;
+    font-size: 36px;
+    height: 50px;
+    line-height: 50px;
+    margin: 0;
+    width: 800px;
+}
+.con .m_con_right .add_sec1 {
+	height:50px;
+	width:840px;
+	float:left;
+	margin-bottom:38px;	
+}
