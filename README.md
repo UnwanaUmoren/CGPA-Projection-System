@@ -1,0 +1,1 @@
+# CGPA-Projection-System: Projects students CGPA (Cumulative Grade Point Average) based on the courses they registered and it is quite flexible as the system will always give the best possible subject combinations based on the target CGPA.
